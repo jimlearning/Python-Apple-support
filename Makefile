@@ -41,7 +41,7 @@ TARGETS-macOS=macosx.x86_64 macosx.arm64
 VERSION_MIN-macOS=11.0
 
 # iOS targets
-TARGETS-iOS=iphonesimulator.x86_64 iphonesimulator.arm64 iphoneos.arm64
+TARGETS-iOS=iphoneos.arm64
 VERSION_MIN-iOS=13.0
 
 # tvOS targets
